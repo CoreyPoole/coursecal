@@ -14,4 +14,3 @@ CourseCal is a full-stack, responsive scheduling application engineered to help 
 - **Full CRUD Functionality:** Seamlessly create, read, and delete calendar events with instant UI updates.
 - **Dynamic Color Architecture:** Implements a deterministic string-hashing algorithm that scambles unique database IDs into stable HSL color vectors, ensuring every distinct event receives a unique visual identity that survives page refreshes.
 - **Persistent Storage:** Fully integrated database layer ensuring data durability across client sessions.
-- **Cloud Optimized:** Configured with decoupled environment variable injections and dynamic firewall whitelists for secure cloud server authentication.
